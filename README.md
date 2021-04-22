@@ -1,1 +1,1 @@
-# Allay-Mindfullness-MERN-APP
+# Allay-Mindfullness
