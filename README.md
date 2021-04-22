@@ -1,1 +1,1 @@
-# Allay-Mindfullness
+# allay-mindfulness
