@@ -77,6 +77,7 @@ app.set('view engine', '.hbs')
 app.use(
   session({
     secret: 'keyboard cat',
+    // we dont want to save a session if nothing is modified
     resave: false,
     saveUninitialized: false,
     store: new MongoStore({ mongooseConnection: mongoose.connection }),
@@ -106,5 +107,6 @@ app.use('/stories', require('./routes/stories'))
 const PORT = process.env.PORT || 3000
 
 // call the app
-app.listen(PORT,
+app.listen(
+  PORT,
   console.log(`Server running in ${process.env.NODE_ENV} mode on port ${PORT}`))

@@ -1,1 +1,17 @@
-# allay-mindfulness
+# allay-mindfulness Journaling web application
+
+The purpose of the web application is to promote mental wellness, mindfulness, and track your progress. The user will sign up using google authentication and be prompted to their profile where they will be able to add entries and save and post them publicly to other users or private for their own tracking. They will be using the the mind-body-based approach that helps people to manage their thoughts and feelings and mental health.
+
+
+Future goals for this app:
+I want this app to aid with emotional and cognitive regulation by learning about the triggers that lead to reactive states and helping to assess which coping skills to apply in the sequence of events, thoughts, feelings, and behaviors to help avoid undesired reactions.  
+
+
+Future Builds for this app:
+1. Survey once signed in which has a user enter their demographics and take a K10 test and then have a personalized program for wellness based on their results from the test. 2. 2. Meditation app linked to the dashboard.
+
+
+Credit:
+Traversy Media Youtube video Build Node.js app from Scratch
+namecheap for the logo
+Google for auth
