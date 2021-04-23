@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/amilord/Allay-Mindfullness#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "connect-mongo": "^3.2.0",
     "dotenv": "^8.2.0",
     "exphbs": "^1.2.0",
