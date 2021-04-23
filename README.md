@@ -13,5 +13,5 @@ Future Builds for this app:
 
 Credit:
 Traversy Media Youtube video Build Node.js app from Scratch
-namecheap for the logo
+
 Google for auth
