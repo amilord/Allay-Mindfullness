@@ -14,7 +14,7 @@ Future Builds for this app:
 #1. About us page for the web application/ contact us page.
 #2. Survey once signed in which has a user enter their demographics and take a K10 test and then have a personalized program for wellness based on their results from the test.
 #3. Meditation app linked to the dashboard.
-#4. Extension for chrome users to know how their network is feeling and keep up to date with one another. 
+ 
 
 
 
