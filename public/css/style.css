@@ -1,6 +1,9 @@
 p {
   margin: 10px 0 !important;
 }
+background-image: url(https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/source.gif);
+background-repeat: no-repeat;
+background-size: cover;
 
 .login-container {
   width: 400px;
