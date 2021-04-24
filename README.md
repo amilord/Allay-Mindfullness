@@ -3,7 +3,7 @@
 
 
 
-The purpose of the web application is to promote mental wellness, mindfulness, and track your progress. The user will sign up using google authentication and be prompted to their profile where they will be able to add entries and save and post them publicly to other users or private for their own tracking. They will be using the the mind-body-based approach that helps people to manage their thoughts and feelings and mental health.
+The purpose of the web application is to promote mental wellness, mindfulness, and track your progress. The user will sign up using google authentication and be prompted to their profile where they will add entries and save and post them publicly to other users or private for their own tracking. They will be using the the mind-body-based approach that helps people to manage their thoughts and feelings and mental health.
 
 
 Future goals for this app:
