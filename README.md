@@ -10,7 +10,7 @@ Future goals for this app:
 I want this app to aid with emotional and cognitive regulation by learning about the triggers that lead to reactive states and helping to assess which coping skills to apply in the sequence of events, thoughts, feelings, and behaviors to help avoid undesired reactions.  
 
 
-Future Builds for this app:
+I still need to build:
 #1. About us page for the web application/ contact us page.
 #2. Survey once signed in which has a user enter their demographics and take a K10 test and then have a personalized program for wellness based on their results from the test.
 #3. Meditation app linked to the dashboard.
