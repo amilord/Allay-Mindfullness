@@ -15,6 +15,7 @@ I still need to build:
 #2. Survey once signed in which has a user enter their demographics and take a K10 test and then have a personalized program for wellness based on their results from the test.
 #3. Meditation app linked to the dashboard.
  
+cover.png![image](https://user-images.githubusercontent.com/60766420/115981242-65e6cc80-a560-11eb-8814-5b3fa7253f28.png)
 
 
 
